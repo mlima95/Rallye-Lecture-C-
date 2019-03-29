@@ -1,0 +1,30 @@
+U:\RallyeLecture\rallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.exe
+U:\RallyeLecture\rallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.pdb
+U:\RallyeLecture\rallyeLecture\rallyeLecture\obj\x86\Debug\rallyeLecture.alimentationBdd.resources
+U:\RallyeLecture\rallyeLecture\rallyeLecture\obj\x86\Debug\rallyeLecture.Properties.Resources.resources
+U:\RallyeLecture\rallyeLecture\rallyeLecture\obj\x86\Debug\rallyeLecture.csproj.GenerateResource.Cache
+U:\RallyeLecture\rallyeLecture\rallyeLecture\obj\x86\Debug\rallyeLecture.exe
+U:\RallyeLecture\rallyeLecture\rallyeLecture\obj\x86\Debug\rallyeLecture.pdb
+U:\RallyeLecture\rallyeLecture\rallyeLecture\obj\x86\Debug\rallyeLecture.csprojResolveAssemblyReference.cache
+U:\RallyeLecture\rallyeLecture\rallyeLecture\bin\Debug\MySql.Data.dll
+U:\RallyeLecture\rallyeLecture\rallyeLecture\bin\Debug\MySql.Data.xml
+C:\RallyeLecture\rallyeLecture\rallyeLecture\obj\x86\Debug\rallyeLecture.exe
+C:\RallyeLecture\rallyeLecture\rallyeLecture\obj\x86\Debug\rallyeLecture.pdb
+C:\RallyeLecture\rallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.exe
+C:\RallyeLecture\rallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.pdb
+C:\RallyeLecture\rallyeLecture\rallyeLecture\bin\Debug\MySql.Data.dll
+C:\RallyeLecture\rallyeLecture\rallyeLecture\bin\Debug\MySql.Data.xml
+C:\RallyeLecture\rallyeLecture\rallyeLecture\obj\x86\Debug\rallyeLecture.csprojResolveAssemblyReference.cache
+C:\RallyeLecture\rallyeLecture\rallyeLecture\obj\x86\Debug\rallyeLecture.alimentationBdd.resources
+C:\RallyeLecture\rallyeLecture\rallyeLecture\obj\x86\Debug\rallyeLecture.Properties.Resources.resources
+C:\RallyeLecture\rallyeLecture\rallyeLecture\obj\x86\Debug\rallyeLecture.csproj.GenerateResource.Cache
+C:\Rallye ppe\RallyeLecture\rallyeLecture\rallyeLecture\obj\x86\Debug\rallyeLecture.exe
+C:\Rallye ppe\RallyeLecture\rallyeLecture\rallyeLecture\obj\x86\Debug\rallyeLecture.pdb
+C:\Rallye ppe\RallyeLecture\rallyeLecture\rallyeLecture\obj\x86\Debug\rallyeLecture.csprojResolveAssemblyReference.cache
+C:\Rallye ppe\RallyeLecture\rallyeLecture\rallyeLecture\obj\x86\Debug\rallyeLecture.alimentationBdd.resources
+C:\Rallye ppe\RallyeLecture\rallyeLecture\rallyeLecture\obj\x86\Debug\rallyeLecture.Properties.Resources.resources
+C:\Rallye ppe\RallyeLecture\rallyeLecture\rallyeLecture\obj\x86\Debug\rallyeLecture.csproj.GenerateResource.Cache
+C:\Rallye ppe\RallyeLecture\rallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.exe
+C:\Rallye ppe\RallyeLecture\rallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.pdb
+C:\Rallye ppe\RallyeLecture\rallyeLecture\rallyeLecture\bin\Debug\MySql.Data.dll
+C:\Rallye ppe\RallyeLecture\rallyeLecture\rallyeLecture\bin\Debug\MySql.Data.xml
