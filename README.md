@@ -38,3 +38,19 @@ Le professeur peut ainsi choisir un fichier CSV contenant le prénom et le nom d
 ![Avant](https://github.com/mlima95/Rallye-Lecture-Csharp/blob/master/CaptureAvant.PNG)
 ![Apres](https://github.com/mlima95/Rallye-Lecture-Csharp/blob/master/CaptureApres.PNG)
 
+## Languages
+```
+
+- C#
+
+- Sql
+
+```
+## Outils
+```
+- Visual Studio 2017
+- MySql
+- Sublime Text (Editor)
+
+```
+
