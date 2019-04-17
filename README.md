@@ -24,9 +24,11 @@ Nous avons tout d'abord créée une base de données afin de traiter les informa
 ![DcDonnées](https://github.com/mlima95/Rallye-Lecture-Csharp/blob/master/Class_Diagram_BDD_Access.png)
 
 * Classes métiers
+
 ![DcMétier](https://github.com/mlima95/Rallye-Lecture-Csharp/blob/master/Class_Diagram_Job.png)
 
 * Classe technique
+
 ![DcTechnique](https://github.com/mlima95/Rallye-Lecture-Csharp/blob/master/Class_Diagram_Technical.png)
 
 * Le Windows Form se présente ainsi :
