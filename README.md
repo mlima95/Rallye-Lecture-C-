@@ -32,6 +32,7 @@ Nous avons tout d'abord créée une base de données afin de traiter les informa
 ![DcTechnique](https://github.com/mlima95/Rallye-Lecture-Csharp/blob/master/Class_Diagram_Technical.png)
 
 * Le Windows Form se présente ainsi :
+
 ![Wf](https://github.com/mlima95/Rallye-Lecture-Csharp/blob/master/WF%20New%20Classe%20Rallye%20Lecture.PNG)
 
 Le professeur peut ainsi choisir un fichier CSV contenant le prénom et le nom de famille des élèves il pourra ainsi déterminer l'année, le niveau,la classe et si le mot de passe et aléatoire ou construit(première lettre du prénom + nom de famille)
