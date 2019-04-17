@@ -21,6 +21,7 @@ Nous avons tout d'abord créée une base de données afin de traiter les informa
 # Diagramme de Classes :
 
 * Classes d'accès aux données 
+
 ![DcDonnées](https://github.com/mlima95/Rallye-Lecture-Csharp/blob/master/ClasseCnx.PNG)
 
 * Classes métiers
