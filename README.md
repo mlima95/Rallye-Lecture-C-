@@ -42,6 +42,11 @@ Le professeur peut ainsi choisir un fichier CSV contenant le prénom et le nom d
 ![Avant](https://github.com/mlima95/Rallye-Lecture-Csharp/blob/master/CaptureAvant.PNG)
 ![Apres](https://github.com/mlima95/Rallye-Lecture-Csharp/blob/master/CaptureApres.PNG)
 
+# Connection
+
+* Ensuite un élève va pouvoir se connecter au site Rallye Lecture
+![EleveSite](https://github.com/mlima95/Rallye-Lecture-Csharp/blob/master/EleveRallye.PNG)
+
 ## Languages
 ```
 
