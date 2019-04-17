@@ -21,11 +21,11 @@ Nous avons tout d'abord créée une base de données afin de traiter les informa
 # Diagramme de Classes :
 
 * Classes d'accès aux données 
-![DcDonnées](https://github.com/mlima95/Rallye-Lecture-Csharp/blob/master/Class_Diagram_BDD_Access.png)
+![DcDonnées](https://github.com/mlima95/Rallye-Lecture-Csharp/blob/master/ClasseCnx.PNG)
 
 * Classes métiers
 
-![DcMétier](https://github.com/mlima95/Rallye-Lecture-Csharp/blob/master/Class_Diagram_Job.png)
+![DcMétier](https://github.com/mlima95/Rallye-Lecture-Csharp/blob/master/ClasseM%C3%A9tier.PNG)
 
 * Classe technique
 
